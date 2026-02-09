@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mhjn1909/leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/mhjn1909/leetcode/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mhjn1909/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mhjn1909/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mhjn1909/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
